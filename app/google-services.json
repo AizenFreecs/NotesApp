@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "33431838823",
+    "firebase_url": "https://notes-app-da309-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "notes-app-da309",
+    "storage_bucket": "notes-app-da309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33431838823:android:19197cc70bcb8d39bfb4c2",
+        "android_client_info": {
+          "package_name": "com.example.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33431838823-hqae3vuq41bk53aiuo3sf8jrek3nlrpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbJyAcJK44n5Uu7LrsaN691c0pblFs37Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33431838823-hqae3vuq41bk53aiuo3sf8jrek3nlrpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
